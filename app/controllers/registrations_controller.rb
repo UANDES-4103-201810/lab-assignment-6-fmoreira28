@@ -4,6 +4,6 @@ class RegistrationsController < ApplicationController
 	end
 
 	def create
-	    #complete this method
+
 	end
 end
